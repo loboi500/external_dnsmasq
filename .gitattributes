@@ -1,0 +1,12 @@
+README.version filter=lfs diff=lfs merge=lfs -text
+src filter=lfs diff=lfs merge=lfs -text
+CHANGELOG filter=lfs diff=lfs merge=lfs -text
+METADATA filter=lfs diff=lfs merge=lfs -text
+COPYING filter=lfs diff=lfs merge=lfs -text
+COPYING-v3 filter=lfs diff=lfs merge=lfs -text
+dnsmasq.conf.example filter=lfs diff=lfs merge=lfs -text
+MODULE_LICENSE_GPL filter=lfs diff=lfs merge=lfs -text
+NOTICE filter=lfs diff=lfs merge=lfs -text
+OWNERS filter=lfs diff=lfs merge=lfs -text
+CHANGELOG.archive filter=lfs diff=lfs merge=lfs -text
+CleanSpec.mk filter=lfs diff=lfs merge=lfs -text
